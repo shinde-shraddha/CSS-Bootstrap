@@ -1,0 +1,21 @@
+::placeholder{
+    font-size: 13px;
+}
+.content{
+    margin-top: -18px;
+    font-size: 10px;
+    color:gray;
+}
+img{
+    margin-top:55px;
+    height:30%;
+
+}
+.crd{
+    width:350px;
+    height:600px;
+}
+
+.email{
+    width:97%;
+}

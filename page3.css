@@ -1,0 +1,196 @@
+
+#header{
+    font-size: 50px;
+    font-weight:bolder;
+    display: inline-block;
+}
+.home{
+    padding:0px 25px;
+    height:100vh;
+    width:100vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(60, 52, 52)
+}
+.a{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.content{
+    margin:20px 0px; 
+    display: flex;
+}
+
+#img1{
+    margin:50px 0px 0px 90px;
+}
+
+#desp{
+    color:rgb(84, 84, 84);
+    font-size:15px;
+    margin-top:-15px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#btn{
+
+    margin-top:50px;
+    height:40px;
+    width:120px;
+    background-color: rgb(105, 105, 236);
+    color:white;
+    border:none;
+    border-radius: 4px;
+}
+
+.about_us{
+    background-color: rgba(236, 234, 234, 0.859);
+    height:100vh;
+    width:100vw;
+    display: flex;
+    font-family: Arial, sans-serif;
+    color: rgb(70, 69, 69);
+    line-height: 2.0;
+    font-family:sans-serif;
+}
+
+#img2{
+    margin:90px 50px 0px 50px;
+    height: 400px;
+    width:600px;
+}
+
+.about_us #dot{
+    margin:100px -25px;
+}
+
+.about_us #title{
+    font-weight: 800;
+    margin-top:-140px;
+    font-size:35px ;
+    color:rgb(79, 78, 78)
+}
+
+.txt{
+
+    font-size: 15px;
+}
+
+#about_title{
+    margin:-40px 0px 0px 20px;
+    font-weight: 500;
+    font-size:18px;
+}
+
+#about_con{
+    margin:0px 0px 0px 20px ;
+    line-height: 1.5;
+    font-size:14px;
+    width:370px;
+}
+
+#about_icon{
+    margin:48px 0px 0px -30px;
+}
+
+.service{
+    height:130vh;
+    width:100vw;
+    text-align: center;
+}
+
+.service #dot {
+    position: absolute;
+    margin:25px -135px;
+}
+.subscribe_btn{
+    margin-top:20px;
+    background-color: #7a17dc;
+    height:35px;
+
+}
+.service #title,.pricing_title{
+    margin:30px 0px;
+    font-size: 45px;
+    letter-spacing: 1px;
+    color: rgb(64, 63, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.Row{
+    margin:0px 190px;
+    text-align: center;
+    height:280px;
+    width:950px;
+}
+
+.col-4 img{
+    margin:20px -20px;
+}
+
+.col-4 p{
+    color:rgb(78, 78, 233);
+    font-size: 20px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+.col-4 div{
+    margin-top:-10px;
+    width:350px;
+    font-size: 15px;
+}
+.col-4{
+    margin-bottom: 50px;
+    width:320px;
+}
+
+.pricing{
+    padding:20px 120px;
+    height:100vh;
+    width:100vw;
+    background-color: rgba(236, 234, 234, 0.859);
+    text-align: center;
+}
+
+.pricing #dot{
+    position: absolute;
+    margin:50px -120px;
+}
+
+.card{
+    height:400px;
+    width:250px;
+    padding:20px 50px;
+    letter-spacing: 1px;
+}
+
+.card_button{
+    margin-top:65px;
+    background-color: #7a17dc;
+    height:35px;
+    border:none;
+    border-radius: 5px;
+    color:white
+}
+
+.contact{
+    height:100vh;
+    width:100vw;
+   
+}
+
+.Input{
+    height:35px;
+    border:1px solid lightgray;
+}
+
+.bttn{
+    width:115px;
+    height:40px;
+    background-color: #265fc3;
+}
+

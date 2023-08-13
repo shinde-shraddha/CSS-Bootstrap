@@ -1,0 +1,120 @@
+body{
+    margin:25px 0px 0px 300px;
+}
+input[type=text],input[type=password],input[type=email]{
+    border:1px solid lightgray;
+}
+#header{
+    height:20px;
+    width:750px;
+    background-color: rgb(231, 225, 225);
+    text-align: center;
+    display: flex;
+}
+.header_dot{
+    margin-left: 10px;
+    text-align: start;
+}
+.background {
+    height:580px;
+    width:750px;
+    background-image: linear-gradient(128deg,lightblue,rgb(150, 195, 251),rgb(195 187 187));
+    border-radius: 0px 0px 05px 05px;
+    box-shadow: 2px 10px 30px 2px rgb(165, 154, 154);
+    display: flex;
+}
+
+.card{
+    height:510px;
+    width:580px;
+    margin:20px 0px 0px 100px;
+    display: flex;
+}
+
+.col{
+    width:50%;
+    height:100%;
+    border-radius: 0px 10px 10px 0px;
+}
+
+img{
+    height:100%;
+    width:100%;
+    border-radius: 10px 0px 0px 10px;
+}
+#txt1{
+    margin:-150px 0px 0px 20px;
+    color: white;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+#txt2{
+    font-size:18px;
+    color:white;
+    margin:15px 0px 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+#price{
+    color: white;
+    font-size: 18px;
+    margin:40px 0px 0px 150px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+#heading{
+    font-size:20px;
+    margin:35px 0px 0px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.info{
+    margin:20px 0px -9px 25px;
+    font-size: 15px;
+}
+
+.title{
+    margin-bottom:6px;
+    color: gray;
+}
+
+.content{
+    font-size: 15px;
+    height:30px;
+    width:85%;
+    border:1px solid gray;
+}
+
+.terms{
+    display:flex;
+    margin:0px 10px 0px 20px;
+    color: gray;
+}
+
+.chkbox{
+    margin-right: 10px;
+}
+
+#condition{
+    margin-top:30px;
+}
+
+button{
+    margin:10px 0px 0px 20px;
+    height:40px;
+    width:120px;
+    color:white;
+    background-color: rgb(36, 36, 215);
+    border: none;
+    border-radius: 5px;
+}
+
+.icon{
+    margin:13px 0px 0px -20px;
+}
